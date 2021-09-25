@@ -1,0 +1,16 @@
+﻿<Window x:Class="War8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:War8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="418.633" Width="620.241">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="236,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Введите количество секунд" HorizontalAlignment="Left" Margin="211,91,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="С начала суток прошло: " HorizontalAlignment="Left" Margin="211,169,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Расчитать" HorizontalAlignment="Left" Margin="236,216,0,0" VerticalAlignment="Top" Width="110" Height="37" Click="button_Click"/>
+
+    </Grid>
+</Window>

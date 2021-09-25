@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\War6\bin\Debug\War6.exe.config
+C:\GitHub\WPF_Practice\War6\bin\Debug\War6.exe
+C:\GitHub\WPF_Practice\War6\bin\Debug\War6.pdb
+C:\GitHub\WPF_Practice\War6\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\War6\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6_MarkupCompile.cache
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6_MarkupCompile.lref
+C:\GitHub\WPF_Practice\War6\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.g.resources
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.Properties.Resources.resources
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.exe
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.pdb
+C:\GitHub\WPF_Practice\War6\obj\Debug\War6.csprojAssemblyReference.cache

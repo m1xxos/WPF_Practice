@@ -1,0 +1,19 @@
+﻿<Window x:Class="PropertiesInMarkUp.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+Title="Установка свойств в разметке" Height="280" Width="525">
+    <StackPanel>
+        <!--Установка значения свойства Fill через атрибут-->
+        <Rectangle Fill="#FF800069" Width="100" Height="100">
+        </Rectangle>
+        <Rectangle Width="100" Height="100" Margin="10">
+            <Rectangle.Fill>
+                <LinearGradientBrush>
+                    <GradientStop Color="#FF1EB9D2" Offset="0"/>
+                    <GradientStop Color="BlueViolet" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <!--Установка значения свойства Fill через вложенный элемент-->
+    </StackPanel>
+</Window>

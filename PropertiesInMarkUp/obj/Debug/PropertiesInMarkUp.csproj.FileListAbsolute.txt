@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\bin\Debug\PropertiesInMarkUp.exe.config
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\bin\Debug\PropertiesInMarkUp.exe
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\bin\Debug\PropertiesInMarkUp.pdb
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp_MarkupCompile.cache
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.g.resources
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.Properties.Resources.resources
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.exe
+C:\GitHub\WPF_Practice\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.pdb

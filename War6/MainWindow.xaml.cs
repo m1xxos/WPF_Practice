@@ -34,7 +34,7 @@ namespace War6
             else
             {
                 int numb = Convert.ToInt32(textBox.Text);
-                label1.Content = "Значение в килобайтах: " +  numb * 0.000122;
+                label1.Content = "Значение в килобайтах: " +  numb * 0.00098;
             
             }
         }

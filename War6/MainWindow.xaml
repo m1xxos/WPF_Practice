@@ -9,7 +9,7 @@
     <Grid>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="149,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="button" Content="Перевести" HorizontalAlignment="Left" Margin="163,194,0,0" VerticalAlignment="Top" Width="86" Height="35" Click="button_Click"/>
-        <Label x:Name="label" Content="Введите значение в битах" HorizontalAlignment="Left" Margin="136,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Введите значение в байтах" HorizontalAlignment="Left" Margin="136,70,0,0" VerticalAlignment="Top"/>
         <Label x:Name="label1" Content="Значение в килобайтах: " HorizontalAlignment="Left" Margin="136,144,0,0" VerticalAlignment="Top"/>
 
     </Grid>

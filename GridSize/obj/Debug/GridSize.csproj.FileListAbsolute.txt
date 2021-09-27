@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize_MarkupCompile.cache
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize.g.resources
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize.Properties.Resources.resources
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\GridSize\bin\Debug\GridSize.exe.config
+C:\GitHub\WPF_Practice\GridSize\bin\Debug\GridSize.exe
+C:\GitHub\WPF_Practice\GridSize\bin\Debug\GridSize.pdb
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize.exe
+C:\GitHub\WPF_Practice\GridSize\obj\Debug\GridSize.pdb

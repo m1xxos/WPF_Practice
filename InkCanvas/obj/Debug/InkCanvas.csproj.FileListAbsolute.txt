@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\InkCanvas\bin\Debug\InkCanvas.exe.config
+C:\GitHub\WPF_Practice\InkCanvas\bin\Debug\InkCanvas.exe
+C:\GitHub\WPF_Practice\InkCanvas\bin\Debug\InkCanvas.pdb
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas_MarkupCompile.cache
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.g.resources
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.Properties.Resources.resources
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.exe
+C:\GitHub\WPF_Practice\InkCanvas\obj\Debug\InkCanvas.pdb

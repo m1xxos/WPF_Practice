@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\Containers\bin\Debug\Containers.exe.config
+C:\GitHub\WPF_Practice\Containers\bin\Debug\Containers.exe
+C:\GitHub\WPF_Practice\Containers\bin\Debug\Containers.pdb
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\Containers\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\Containers\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers_MarkupCompile.cache
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers_MarkupCompile.lref
+C:\GitHub\WPF_Practice\Containers\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.g.resources
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.Properties.Resources.resources
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.exe
+C:\GitHub\WPF_Practice\Containers\obj\Debug\Containers.pdb

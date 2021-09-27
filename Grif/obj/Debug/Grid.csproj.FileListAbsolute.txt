@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\Grif\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\Grif\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\Grif\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grif_MarkupCompile.cache
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grif.g.resources
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grif.Properties.Resources.resources
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\Grif\bin\Debug\Grif.exe.config
+C:\GitHub\WPF_Practice\Grif\bin\Debug\Grif.exe
+C:\GitHub\WPF_Practice\Grif\bin\Debug\Grif.pdb
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grif.exe
+C:\GitHub\WPF_Practice\Grif\obj\Debug\Grif.pdb

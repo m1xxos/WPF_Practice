@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\WrapPanel\bin\Debug\WrapPanel.exe.config
+C:\GitHub\WPF_Practice\WrapPanel\bin\Debug\WrapPanel.exe
+C:\GitHub\WPF_Practice\WrapPanel\bin\Debug\WrapPanel.pdb
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.cache
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel.g.resources
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel.Properties.Resources.resources
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel.exe
+C:\GitHub\WPF_Practice\WrapPanel\obj\Debug\WrapPanel.pdb

@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\War3\bin\Debug\War3.exe.config
+C:\GitHub\WPF_Practice\War3\bin\Debug\War3.exe
+C:\GitHub\WPF_Practice\War3\bin\Debug\War3.pdb
+C:\GitHub\WPF_Practice\War3\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\War3\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3_MarkupCompile.cache
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3_MarkupCompile.lref
+C:\GitHub\WPF_Practice\War3\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.g.resources
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.Properties.Resources.resources
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.exe
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.pdb
+C:\GitHub\WPF_Practice\War3\obj\Debug\War3.csprojAssemblyReference.cache

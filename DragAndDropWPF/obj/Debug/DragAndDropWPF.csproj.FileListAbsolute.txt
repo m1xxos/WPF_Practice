@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\DragAndDropWPF\bin\Debug\DragAndDropWPF.exe.config
+C:\GitHub\WPF_Practice\DragAndDropWPF\bin\Debug\DragAndDropWPF.exe
+C:\GitHub\WPF_Practice\DragAndDropWPF\bin\Debug\DragAndDropWPF.pdb
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF.g.resources
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF.exe
+C:\GitHub\WPF_Practice\DragAndDropWPF\obj\Debug\DragAndDropWPF.pdb

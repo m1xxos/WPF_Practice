@@ -1,10 +1,11 @@
 C:\GitHub\WPF_Practice\War4\bin\Debug\War4.exe.config
 C:\GitHub\WPF_Practice\War4\bin\Debug\War4.exe
 C:\GitHub\WPF_Practice\War4\bin\Debug\War4.pdb
-C:\GitHub\WPF_Practice\War4\obj\Debug\MainWindow.baml
 C:\GitHub\WPF_Practice\War4\obj\Debug\MainWindow.g.cs
 C:\GitHub\WPF_Practice\War4\obj\Debug\App.g.cs
 C:\GitHub\WPF_Practice\War4\obj\Debug\War4_MarkupCompile.cache
+C:\GitHub\WPF_Practice\War4\obj\Debug\War4_MarkupCompile.lref
+C:\GitHub\WPF_Practice\War4\obj\Debug\MainWindow.baml
 C:\GitHub\WPF_Practice\War4\obj\Debug\War4.g.resources
 C:\GitHub\WPF_Practice\War4\obj\Debug\War4.Properties.Resources.resources
 C:\GitHub\WPF_Practice\War4\obj\Debug\War4.csproj.GenerateResource.cache

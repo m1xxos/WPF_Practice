@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\TextBoxWPF\bin\Debug\TextBoxWPF.exe.config
+C:\GitHub\WPF_Practice\TextBoxWPF\bin\Debug\TextBoxWPF.exe
+C:\GitHub\WPF_Practice\TextBoxWPF\bin\Debug\TextBoxWPF.pdb
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF_MarkupCompile.lref
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.g.resources
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.exe
+C:\GitHub\WPF_Practice\TextBoxWPF\obj\Debug\TextBoxWPF.pdb

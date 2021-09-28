@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\CheckBoxListWPF\bin\Debug\CheckBoxListWPF.exe.config
+C:\GitHub\WPF_Practice\CheckBoxListWPF\bin\Debug\CheckBoxListWPF.exe
+C:\GitHub\WPF_Practice\CheckBoxListWPF\bin\Debug\CheckBoxListWPF.pdb
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF_MarkupCompile.lref
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF.g.resources
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF.exe
+C:\GitHub\WPF_Practice\CheckBoxListWPF\obj\Debug\CheckBoxListWPF.pdb

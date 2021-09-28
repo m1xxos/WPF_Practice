@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\ToolTipWPF\bin\Debug\ToolTipWPF.exe.config
+C:\GitHub\WPF_Practice\ToolTipWPF\bin\Debug\ToolTipWPF.exe
+C:\GitHub\WPF_Practice\ToolTipWPF\bin\Debug\ToolTipWPF.pdb
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF.g.resources
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF.exe
+C:\GitHub\WPF_Practice\ToolTipWPF\obj\Debug\ToolTipWPF.pdb

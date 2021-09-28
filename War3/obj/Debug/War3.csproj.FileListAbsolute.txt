@@ -12,4 +12,3 @@ C:\GitHub\WPF_Practice\War3\obj\Debug\War3.csproj.GenerateResource.cache
 C:\GitHub\WPF_Practice\War3\obj\Debug\War3.csproj.CoreCompileInputs.cache
 C:\GitHub\WPF_Practice\War3\obj\Debug\War3.exe
 C:\GitHub\WPF_Practice\War3\obj\Debug\War3.pdb
-C:\GitHub\WPF_Practice\War3\obj\Debug\War3.csprojAssemblyReference.cache

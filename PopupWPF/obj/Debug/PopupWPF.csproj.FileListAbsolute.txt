@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\PopupWPF\bin\Debug\PopupWPF.exe.config
+C:\GitHub\WPF_Practice\PopupWPF\bin\Debug\PopupWPF.exe
+C:\GitHub\WPF_Practice\PopupWPF\bin\Debug\PopupWPF.pdb
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF.g.resources
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF.exe
+C:\GitHub\WPF_Practice\PopupWPF\obj\Debug\PopupWPF.pdb

@@ -7,21 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="60"></RowDefinition>
-            <RowDefinition Height="*"></RowDefinition>
-        </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-        </Grid.ColumnDefinitions>
+        <TreeView x:Name="treeView" />
+        <TreeViewItem Margin="10" Header="Дни недели" IsSelected="True">
+            <TreeViewItem Header="Понедельник">
+                <TreeViewItem Header="Технология разработки программного обеспечения"/>
+                <TreeViewItem Header="Технология разработки программного обеспечения"/>
+                <TreeViewItem Header="WEB-программирование"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Вторник">
+                <TreeViewItem Header="Технология разработки программного обеспечения"/>
+                <TreeViewItem Header="Технология разработки программного обеспечения"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Среда"/>
+            <TreeViewItem Header="Четверг"/>
+            <TreeViewItem Header="Пятница"/>
+            <TreeViewItem Header="Суббота"/>
 
-        <TextBlock Grid.Row="0" Grid.Column="0" Background="#FF3F25B6" Padding="10" Foreground="#FF782626">TExtBlock</TextBlock>
-        <Label  Grid.Row="0" Grid.Column="1" Content="label"></Label>
-        <TextBox Grid.Row="0" Grid.Column="2" ></TextBox>
-        <TextBox x:Name="textbox" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="10, 10, 100, 100" ></TextBox>
-        <Button x:Name="button" Content="Очистить" Grid.Column="2" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="button_Click"/>
-
+        </TreeViewItem>
+       
     </Grid>
 </Window>

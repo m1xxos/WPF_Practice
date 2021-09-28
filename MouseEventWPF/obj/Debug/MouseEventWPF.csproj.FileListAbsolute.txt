@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\MouseEventWPF\bin\Debug\MouseEventWPF.exe.config
+C:\GitHub\WPF_Practice\MouseEventWPF\bin\Debug\MouseEventWPF.exe
+C:\GitHub\WPF_Practice\MouseEventWPF\bin\Debug\MouseEventWPF.pdb
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF.g.resources
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF.exe
+C:\GitHub\WPF_Practice\MouseEventWPF\obj\Debug\MouseEventWPF.pdb

@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\FocusWPF\bin\Debug\FocusWPF.exe.config
+C:\GitHub\WPF_Practice\FocusWPF\bin\Debug\FocusWPF.exe
+C:\GitHub\WPF_Practice\FocusWPF\bin\Debug\FocusWPF.pdb
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF.g.resources
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF.exe
+C:\GitHub\WPF_Practice\FocusWPF\obj\Debug\FocusWPF.pdb

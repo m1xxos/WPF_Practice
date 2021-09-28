@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\ImageListWPF\bin\Debug\ImageListWPF.exe.config
+C:\GitHub\WPF_Practice\ImageListWPF\bin\Debug\ImageListWPF.exe
+C:\GitHub\WPF_Practice\ImageListWPF\bin\Debug\ImageListWPF.pdb
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF_Content.g.cs
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF.g.resources
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF.exe
+C:\GitHub\WPF_Practice\ImageListWPF\obj\Debug\ImageListWPF.pdb

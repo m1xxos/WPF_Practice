@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\RadioButtonListWPF\bin\Debug\RadioButtonListWPF.exe.config
+C:\GitHub\WPF_Practice\RadioButtonListWPF\bin\Debug\RadioButtonListWPF.exe
+C:\GitHub\WPF_Practice\RadioButtonListWPF\bin\Debug\RadioButtonListWPF.pdb
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF_MarkupCompile.lref
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF.g.resources
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF.exe
+C:\GitHub\WPF_Practice\RadioButtonListWPF\obj\Debug\RadioButtonListWPF.pdb

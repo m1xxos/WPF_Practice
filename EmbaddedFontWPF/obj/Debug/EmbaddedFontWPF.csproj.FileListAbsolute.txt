@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\bin\Debug\EmbaddedFontWPF.exe.config
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\bin\Debug\EmbaddedFontWPF.exe
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\bin\Debug\EmbaddedFontWPF.pdb
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.g.resources
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.exe
+C:\GitHub\WPF_Practice\EmbaddedFontWPF\obj\Debug\EmbaddedFontWPF.pdb

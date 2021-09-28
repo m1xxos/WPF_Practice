@@ -1,0 +1,28 @@
+﻿<Window x:Class="War1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:War1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Background="#FFB5ADE6" FontSize="16">
+            Введите двузначное число:
+        </TextBlock>
+        <TextBox Grid.Row="0" x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10, 30" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Grid.Row="0" x:Name="button" Content="Выполнить" HorizontalAlignment="Left" Margin="10,70" VerticalAlignment="Top" Width="95" Click="button_Click"/>
+        <TextBlock Grid.Row="1" Background="#FFEEEE90" FontSize="16">
+            Результаты:
+        </TextBlock>
+        <Label x:Name="label" Content="Кратность 3м: " HorizontalAlignment="Left" Margin="10,31,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Чётность/Нечётность: " HorizontalAlignment="Left" Margin="10,62,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Сумма: " HorizontalAlignment="Left" Margin="10,93,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Произведение: " HorizontalAlignment="Left" Margin="10,124,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\labelWPF\bin\Debug\labelWPF.exe.config
+C:\GitHub\WPF_Practice\labelWPF\bin\Debug\labelWPF.exe
+C:\GitHub\WPF_Practice\labelWPF\bin\Debug\labelWPF.pdb
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF_MarkupCompile.lref
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.g.resources
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.exe
+C:\GitHub\WPF_Practice\labelWPF\obj\Debug\labelWPF.pdb

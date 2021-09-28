@@ -1,0 +1,13 @@
+C:\GitHub\WPF_Practice\MouseCaptureWPF\bin\Debug\MouseCaptureWPF.exe.config
+C:\GitHub\WPF_Practice\MouseCaptureWPF\bin\Debug\MouseCaptureWPF.exe
+C:\GitHub\WPF_Practice\MouseCaptureWPF\bin\Debug\MouseCaptureWPF.pdb
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF.g.resources
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF.exe
+C:\GitHub\WPF_Practice\MouseCaptureWPF\obj\Debug\MouseCaptureWPF.pdb

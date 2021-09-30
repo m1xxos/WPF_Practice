@@ -1,0 +1,35 @@
+﻿<Window x:Class="War1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:War1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        
+        <GroupBox Margin="5" Padding="10" Header="Radiobutton Group 1">
+            <StackPanel>
+                <RadioButton>Group 1</RadioButton>
+                <RadioButton>Group 1</RadioButton>
+                <RadioButton>Group 1</RadioButton>
+            </StackPanel>
+        </GroupBox>
+        <ListBox Grid.Row="1" Name="lst">
+            <CheckBox Margin="3">Option 1</CheckBox>
+            <CheckBox Margin="3">Option 2</CheckBox>
+            <CheckBox Margin="3">Option 3</CheckBox>
+        </ListBox>
+        <ComboBox Width="100" Height="50" Grid.Row="2" Name="lst1" Margin="0,0,600,60">
+            <ComboBoxItem>Item 1</ComboBoxItem>
+            <ComboBoxItem>Item 2</ComboBoxItem>
+            <ComboBoxItem>Item 3</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\GlassEffectWPF\bin\Debug\GlassEffectWPF.exe.config
+C:\GitHub\WPF_Practice\GlassEffectWPF\bin\Debug\GlassEffectWPF.exe
+C:\GitHub\WPF_Practice\GlassEffectWPF\bin\Debug\GlassEffectWPF.pdb
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.g.resources
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.exe
+C:\GitHub\WPF_Practice\GlassEffectWPF\obj\Debug\GlassEffectWPF.pdb

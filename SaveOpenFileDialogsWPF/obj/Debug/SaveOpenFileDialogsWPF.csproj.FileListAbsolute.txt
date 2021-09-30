@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.g.resources
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\bin\Debug\SaveOpenFileDialogsWPF.exe.config
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\bin\Debug\SaveOpenFileDialogsWPF.exe
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\bin\Debug\SaveOpenFileDialogsWPF.pdb
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.exe
+C:\GitHub\WPF_Practice\SaveOpenFileDialogsWPF\obj\Debug\SaveOpenFileDialogsWPF.pdb

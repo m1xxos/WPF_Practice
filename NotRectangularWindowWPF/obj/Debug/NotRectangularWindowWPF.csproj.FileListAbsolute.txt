@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\bin\Debug\NotRectangularWindowWPF.exe.config
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\bin\Debug\NotRectangularWindowWPF.exe
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\bin\Debug\NotRectangularWindowWPF.pdb
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF_Content.g.cs
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF.g.resources
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF.exe
+C:\GitHub\WPF_Practice\NotRectangularWindowWPF\obj\Debug\NotRectangularWindowWPF.pdb

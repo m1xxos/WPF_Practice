@@ -1,0 +1,17 @@
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\NewWindow.g.cs
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF_MarkupCompile.lref
+C:\GitHub\WPF_Practice\DialogTypesWPF\bin\Debug\DialogTypesWPF.exe.config
+C:\GitHub\WPF_Practice\DialogTypesWPF\bin\Debug\DialogTypesWPF.exe
+C:\GitHub\WPF_Practice\DialogTypesWPF\bin\Debug\DialogTypesWPF.pdb
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\NewWindow.baml
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.g.resources
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.exe
+C:\GitHub\WPF_Practice\DialogTypesWPF\obj\Debug\DialogTypesWPF.pdb

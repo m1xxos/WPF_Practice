@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\bin\Debug\WindowOwnershipWPF.exe.config
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\bin\Debug\WindowOwnershipWPF.exe
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\bin\Debug\WindowOwnershipWPF.pdb
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\Window1.baml
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\Window1.g.cs
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF.g.resources
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF.exe
+C:\GitHub\WPF_Practice\WindowOwnershipWPF\obj\Debug\WindowOwnershipWPF.pdb

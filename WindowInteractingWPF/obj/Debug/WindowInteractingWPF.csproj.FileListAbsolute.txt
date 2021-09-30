@@ -1,0 +1,17 @@
+C:\GitHub\WPF_Practice\WindowInteractingWPF\bin\Debug\WindowInteractingWPF.exe.config
+C:\GitHub\WPF_Practice\WindowInteractingWPF\bin\Debug\WindowInteractingWPF.exe
+C:\GitHub\WPF_Practice\WindowInteractingWPF\bin\Debug\WindowInteractingWPF.pdb
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\NewWindow.g.cs
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF_MarkupCompile.lref
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\NewWindow.baml
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.g.resources
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.exe
+C:\GitHub\WPF_Practice\WindowInteractingWPF\obj\Debug\WindowInteractingWPF.pdb

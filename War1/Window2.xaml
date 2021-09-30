@@ -1,0 +1,20 @@
+﻿<Window x:Class="War1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:War1"
+        mc:Ignorable="d"
+        Title="Window2" Height="326.944" Width="374.129">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="12,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Первое число(a)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Второе число(b)" HorizontalAlignment="Left" Margin="12,74,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Расчитать" HorizontalAlignment="Left" Margin="12,209,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBox x:Name="textBox1_Copy" HorizontalAlignment="Left" Height="23" Margin="12,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label1_Copy" Content="третье число(c)" HorizontalAlignment="Left" Margin="12,138,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Решение: " HorizontalAlignment="Left" Margin="12,234,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

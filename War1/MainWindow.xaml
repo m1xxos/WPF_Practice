@@ -7,29 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-        </Grid.RowDefinitions>
-        
-        
-        <GroupBox Margin="5" Padding="10" Header="Radiobutton Group 1">
-            <StackPanel>
-                <RadioButton>Group 1</RadioButton>
-                <RadioButton>Group 1</RadioButton>
-                <RadioButton>Group 1</RadioButton>
-            </StackPanel>
-        </GroupBox>
-        <ListBox Grid.Row="1" Name="lst">
-            <CheckBox Margin="3">Option 1</CheckBox>
-            <CheckBox Margin="3">Option 2</CheckBox>
-            <CheckBox Margin="3">Option 3</CheckBox>
-        </ListBox>
-        <ComboBox Width="100" Height="50" Grid.Row="2" Name="lst1" Margin="0,0,600,60">
-            <ComboBoxItem>Item 1</ComboBoxItem>
-            <ComboBoxItem>Item 2</ComboBoxItem>
-            <ComboBoxItem>Item 3</ComboBoxItem>
-        </ComboBox>
+        <Button x:Name="button" Content="Расчет среднего арифметического" HorizontalAlignment="Left" Margin="262,92,0,0" VerticalAlignment="Top" Width="231" Height="35" Click="button_Click" />
+        <Button x:Name="button1" Content="Решение квадратного управления" HorizontalAlignment="Left" Margin="262,148,0,0" VerticalAlignment="Top" Width="231" Height="35" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Работа со списками" HorizontalAlignment="Left" Margin="262,206,0,0" VerticalAlignment="Top" Width="231" Height="35" Click="button2_Click"/>
+        <Button x:Name="button3" Content="Работа с файлами" HorizontalAlignment="Left" Margin="262,259,0,0" VerticalAlignment="Top" Width="231" Height="35" Click="button3_Click"/>
+
     </Grid>
 </Window>

@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\bin\Debug\WindowPositionSaveWPF.exe.config
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\bin\Debug\WindowPositionSaveWPF.exe
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\bin\Debug\WindowPositionSaveWPF.pdb
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.g.resources
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.exe
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF.pdb
+C:\GitHub\WPF_Practice\WindowPositionSaveWPF\obj\Debug\WindowPositionSaveWPF_Content.g.cs

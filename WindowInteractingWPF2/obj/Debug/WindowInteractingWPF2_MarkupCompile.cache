@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\GitHub\WPF_Practice\WindowInteractingWPF2\obj\Debug\
+\\Mac\Home\Desktop\WPF_Practice\WindowInteractingWPF2\obj\Debug\
 WindowInteractingWPF2
 none
 false
 DEBUG;TRACE
-C:\GitHub\WPF_Practice\WindowInteractingWPF2\App.xaml
+\\Mac\Home\Desktop\WPF_Practice\WindowInteractingWPF2\App.xaml
 4-411240467
 
-8-570047503
+9-1412406870
 13-1505183044
 IInteractiveWindow.xaml;MainWindow.xaml;Window1.xaml;Window2.xaml;
 
-False
+True
 

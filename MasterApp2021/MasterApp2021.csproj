@@ -114,6 +114,7 @@
     <Compile Include="Entities\Service.cs">
       <DependentUpon>CarServiceModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Entities\ServicePartial.cs" />
     <Compile Include="Entities\ServicePhoto.cs">
       <DependentUpon>CarServiceModel.tt</DependentUpon>
     </Compile>

@@ -23,3 +23,4 @@ C:\Users\m1xxos\source\repos\MasterApp2021\obj\Debug\MasterApp2021.csproj.CoreCo
 C:\Users\m1xxos\source\repos\MasterApp2021\obj\Debug\MasterApp2021.csproj.CopyComplete
 C:\Users\m1xxos\source\repos\MasterApp2021\obj\Debug\MasterApp2021.exe
 C:\Users\m1xxos\source\repos\MasterApp2021\obj\Debug\MasterApp2021.pdb
+C:\Users\m1xxos\source\repos\MasterApp2021\obj\Debug\App.baml

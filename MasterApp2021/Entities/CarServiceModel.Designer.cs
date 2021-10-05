@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\m1xxos\source\repos\MasterApp2021\Entities\CarServiceModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\GitHub\WPF_Practice\MasterApp2021\Entities\CarServiceModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

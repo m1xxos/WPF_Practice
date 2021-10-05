@@ -18,5 +18,7 @@ namespace MasterApp2021.Entities
 
         public string BackColor => (Discount == 0 || Discount == null) ? "#ffffe1" : "#d1ffd1";
 
+        public string AdminControlsVisibility => (App.CurrentUser.RoleId == 1) ? "Visible" : "Collapsed";
+
     }
 }

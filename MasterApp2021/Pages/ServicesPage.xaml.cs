@@ -27,6 +27,12 @@ namespace MasterApp2021.Pages
 			ComboDiscount.SelectedIndex = 0;
 			ComboSortBy.SelectedIndex = 0;
 			UpdateServices();
+
+			// 1 - админ, 2 - пользователь. 
+			if (App.CurrentUser.RoleId == 1)
+				BtnAddService.Visibility = Visibility.Visible;
+			else
+				BtnAddService.Visibility = Visibility.Collapsed;
 		}
 
 		void ComboSortBy_SelectionChanged(object sender, SelectionChangedEventArgs e) => UpdateServices();

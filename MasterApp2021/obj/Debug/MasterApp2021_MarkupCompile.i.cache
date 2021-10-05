@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-\\Mac\Home\Desktop\WPF_Practice\MasterApp2021\obj\Debug\
+C:\GitHub\WPF_Practice\MasterApp2021\obj\Debug\
 MasterApp2021
 none
 false
 DEBUG;TRACE
-\\Mac\Home\Desktop\WPF_Practice\MasterApp2021\App.xaml
-3761207295
+C:\GitHub\WPF_Practice\MasterApp2021\App.xaml
+4173631568
 2-1616761373
-2344532163
-18-1773064750
-MainWindow.xaml;Pages\AddEditServicePage.xaml;Pages\ServicesPage.xaml;
+27-458742102
+18-419574329
+MainWindow.xaml;Pages\AddEditServicePage.xaml;Pages\LoginPage.xaml;Pages\ServicesPage.xaml;
 
-True
+False
 

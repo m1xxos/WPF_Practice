@@ -60,8 +60,26 @@ namespace MasterApp2021.Pages
 			NavigationService.Navigate(new AddEditServicePage());
 		}
 
-		void BtnEdit_Click(object sender, RoutedEventArgs e) { }
+		void BtnEdit_Click(object sender, RoutedEventArgs e) {
+			var currentService = (sender as Button).DataContext as Entities.Service;
+			NavigationService.Navigate(new AddEditServicePage(currentService));
+		}
 
-		void BtnDelete_Click(object sender, RoutedEventArgs e) { }
-	}
+		void BtnDelete_Click(object sender, RoutedEventArgs e) {
+			var currentService = (sender as Button).DataContext as Entities.Service;
+
+			if(MessageBox.Show($"Вы уверены что хотите удалить услугу: " + $"{currentService.Title}?", "Внимание",
+				MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+            {
+				App.Context.Services.Remove(currentService);
+				App.Context.SaveChanges();
+				UpdateServices();
+            }
+		}
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+			UpdateServices();
+        }
+    }
 }

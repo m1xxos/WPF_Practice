@@ -9,6 +9,40 @@
       Title="Добавить услугу">
 
     <Grid>
-        
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Название" Width="100"></TextBlock>
+                    <TextBox Name="TboxTitle"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Стоимость" Width="100"></TextBlock>
+                    <TextBox Name="TboxCost"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Длит-сть(мин)" Width="100"></TextBlock>
+                    <TextBox Name="TboxDuration"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Описание" Width="100"></TextBlock>
+                    <TextBox Name="TboxDescription" TextWrapping="Wrap" Height="100"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource BlockCommon}" Text="Скидка" Width="100"></TextBlock>
+                    <TextBox Name="TboxDiscount"></TextBox>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel VerticalAlignment="Center">
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+                    <Border Margin="5" Height="175" Width="200" BorderBrush="{StaticResource ColorAccent}" BorderThickness="1">
+                        <Image Name="ImageService"></Image>
+                    </Border>
+                    <Button Height="30" Width="200" Margin="5" Name="BtnSelectImage" Click="BtnSelectImage_Click" Content="Выбрать фотографию"></Button>
+                    <Button Height="30" Width="200" Margin="5" Name="BtnSave" Click="BtnSave_Click" Content="Сохранит"></Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Page>

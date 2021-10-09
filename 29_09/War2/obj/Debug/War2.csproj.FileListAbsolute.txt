@@ -1,0 +1,17 @@
+C:\GitHub\WPF_Practice\29_09\War2\bin\Debug\War2.exe.config
+C:\GitHub\WPF_Practice\29_09\War2\bin\Debug\War2.exe
+C:\GitHub\WPF_Practice\29_09\War2\bin\Debug\War2.pdb
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2_MarkupCompile.cache
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2_MarkupCompile.lref
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.g.resources
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.Properties.Resources.resources
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.exe
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\War2.pdb
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\Window1.g.cs
+C:\GitHub\WPF_Practice\29_09\War2\obj\Debug\Window1.baml

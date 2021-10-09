@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-\\Mac\Home\Desktop\WPF_Practice\WindowOwnershipWPF\obj\Debug\
+C:\GitHub\WPF_Practice\29_09\WindowOwnershipWPF\obj\Debug\
 WindowOwnershipWPF
 none
 false
 DEBUG;TRACE
-\\Mac\Home\Desktop\WPF_Practice\WindowOwnershipWPF\App.xaml
+C:\GitHub\WPF_Practice\29_09\WindowOwnershipWPF\App.xaml
 2462529049
 
-72108228723
+6-1344379206
 13-1505183044
 MainWindow.xaml;Window1.xaml;
 

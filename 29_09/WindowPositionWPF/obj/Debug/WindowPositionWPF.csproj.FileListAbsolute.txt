@@ -11,3 +11,17 @@ C:\GitHub\WPF_Practice\WindowPositionWPF\obj\Debug\WindowPositionWPF.csproj.Gene
 C:\GitHub\WPF_Practice\WindowPositionWPF\obj\Debug\WindowPositionWPF.csproj.CoreCompileInputs.cache
 C:\GitHub\WPF_Practice\WindowPositionWPF\obj\Debug\WindowPositionWPF.exe
 C:\GitHub\WPF_Practice\WindowPositionWPF\obj\Debug\WindowPositionWPF.pdb
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\bin\Debug\WindowPositionWPF.exe.config
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\bin\Debug\WindowPositionWPF.exe
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\bin\Debug\WindowPositionWPF.pdb
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF_MarkupCompile.cache
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.g.resources
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.Properties.Resources.resources
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.exe
+C:\GitHub\WPF_Practice\29_09\WindowPositionWPF\obj\Debug\WindowPositionWPF.pdb

@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\FileWebRequest\bin\Debug\FileWebRequest.exe.config
+C:\GitHub\WPF_Practice\FileWebRequest\bin\Debug\FileWebRequest.exe
+C:\GitHub\WPF_Practice\FileWebRequest\bin\Debug\FileWebRequest.pdb
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest_MarkupCompile.cache
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest_MarkupCompile.lref
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.g.resources
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.Properties.Resources.resources
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.exe
+C:\GitHub\WPF_Practice\FileWebRequest\obj\Debug\FileWebRequest.pdb

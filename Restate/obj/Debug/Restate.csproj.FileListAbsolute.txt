@@ -3,8 +3,6 @@ C:\GitHub\WPF_Practice\Restate\bin\Debug\Restate.exe
 C:\GitHub\WPF_Practice\Restate\bin\Debug\Restate.pdb
 C:\GitHub\WPF_Practice\Restate\bin\Debug\EntityFramework.dll
 C:\GitHub\WPF_Practice\Restate\bin\Debug\EntityFramework.SqlServer.dll
-C:\GitHub\WPF_Practice\Restate\bin\Debug\EntityFramework.xml
-C:\GitHub\WPF_Practice\Restate\bin\Debug\EntityFramework.SqlServer.xml
 C:\GitHub\WPF_Practice\Restate\obj\Debug\Restate.csprojAssemblyReference.cache
 C:\GitHub\WPF_Practice\Restate\obj\Debug\MainWindow.g.cs
 C:\GitHub\WPF_Practice\Restate\obj\Debug\App.g.cs
@@ -19,3 +17,9 @@ C:\GitHub\WPF_Practice\Restate\obj\Debug\Restate.csproj.CoreCompileInputs.cache
 C:\GitHub\WPF_Practice\Restate\obj\Debug\Restate.csproj.CopyComplete
 C:\GitHub\WPF_Practice\Restate\obj\Debug\Restate.exe
 C:\GitHub\WPF_Practice\Restate\obj\Debug\Restate.pdb
+C:\GitHub\WPF_Practice\Restate\obj\Debug\Windows\agents.g.cs
+C:\GitHub\WPF_Practice\Restate\obj\Debug\App.baml
+C:\GitHub\WPF_Practice\Restate\obj\Debug\Windows\agents.baml
+C:\GitHub\WPF_Practice\Restate\obj\Debug\Windows\clients.g.cs
+C:\GitHub\WPF_Practice\Restate\obj\Debug\Windows\clients.baml
+C:\GitHub\WPF_Practice\Restate\bin\Debug\System.ValueTuple.dll

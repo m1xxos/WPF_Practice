@@ -1,0 +1,15 @@
+C:\GitHub\WPF_Practice\Dns\bin\Debug\Dns.exe.config
+C:\GitHub\WPF_Practice\Dns\bin\Debug\Dns.exe
+C:\GitHub\WPF_Practice\Dns\bin\Debug\Dns.pdb
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.csprojAssemblyReference.cache
+C:\GitHub\WPF_Practice\Dns\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\Dns\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns_MarkupCompile.cache
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns_MarkupCompile.lref
+C:\GitHub\WPF_Practice\Dns\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.g.resources
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.Properties.Resources.resources
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.exe
+C:\GitHub\WPF_Practice\Dns\obj\Debug\Dns.pdb

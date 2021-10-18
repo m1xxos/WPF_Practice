@@ -1,0 +1,14 @@
+C:\GitHub\WPF_Practice\Request\bin\Debug\Request.exe.config
+C:\GitHub\WPF_Practice\Request\bin\Debug\Request.exe
+C:\GitHub\WPF_Practice\Request\bin\Debug\Request.pdb
+C:\GitHub\WPF_Practice\Request\obj\Debug\MainWindow.g.cs
+C:\GitHub\WPF_Practice\Request\obj\Debug\App.g.cs
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request_MarkupCompile.cache
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request_MarkupCompile.lref
+C:\GitHub\WPF_Practice\Request\obj\Debug\MainWindow.baml
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request.g.resources
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request.Properties.Resources.resources
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request.csproj.GenerateResource.cache
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request.exe
+C:\GitHub\WPF_Practice\Request\obj\Debug\Request.pdb

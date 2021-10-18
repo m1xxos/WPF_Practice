@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Restate.Windows;
 
 namespace Restate
 {
@@ -27,7 +28,14 @@ namespace Restate
 
         private void buttonAgents_Click(object sender, RoutedEventArgs e)
         {
+            Window agnent = new Windows.agents();
+            agnent.Show();
+        }
 
+        private void buttonClients_Click(object sender, RoutedEventArgs e)
+        {
+            Window client = new clients();
+            client.Show();
         }
     }
 }

@@ -7,12 +7,12 @@
         mc:Ignorable="d"
         Title="Главное окно" Height="424.68" Width="338.491">
     <Grid>
-        <Button x:Name="buttonAgents" Content="Агенты" HorizontalAlignment="Left" Margin="82,37,0,0" VerticalAlignment="Top" Width="154" Height="35" Click="buttonAgents_Click"/>
-        <Button x:Name="buttonClients" Content="Клиенты" HorizontalAlignment="Left" Margin="82,87,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
-        <Button x:Name="buttonRealEstate" Content="Недвижимость" HorizontalAlignment="Left" Margin="82,135,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
-        <Button x:Name="buttonSupplies" Content="Предложения" HorizontalAlignment="Left" Margin="82,185,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
-        <Button x:Name="buttonDemand" Content="Потребность" HorizontalAlignment="Left" Margin="82,235,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
-        <Button x:Name="buttonDeals" Content="Сделки" HorizontalAlignment="Left" Margin="82,287,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
+        <Button x:Name="buttonAgents" Content="Агенты" HorizontalAlignment="Left" Margin="84,72,0,0" VerticalAlignment="Top" Width="154" Height="35" Click="buttonAgents_Click"/>
+        <Button x:Name="buttonClients" Content="Клиенты" HorizontalAlignment="Left" Margin="84,122,0,0" VerticalAlignment="Top" Width="154" Height="35" Click="buttonClients_Click"/>
+        <Button x:Name="buttonRealEstate" Content="Недвижимость" HorizontalAlignment="Left" Margin="84,170,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
+        <Button x:Name="buttonSupplies" Content="Предложения" HorizontalAlignment="Left" Margin="84,220,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
+        <Button x:Name="buttonDemand" Content="Потребность" HorizontalAlignment="Left" Margin="84,270,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
+        <Button x:Name="buttonDeals" Content="Сделки" HorizontalAlignment="Left" Margin="84,322,0,0" VerticalAlignment="Top" Width="154" Height="35"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVyGfw0QZqMhRhqCM+7WIwyN4kVkng4tq8SQ+s2ZarwVeoFhb1xOu+V4UD2s6ynMF8Hl5JpXu7dCS4Le8uzHPg==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\WPF_Practice\\Restate\\Restate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bulyn\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\bulyn\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\bulyn\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\bulyn\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\bulyn\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

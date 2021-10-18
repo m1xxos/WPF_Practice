@@ -5,8 +5,57 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Restate.Windows"
         mc:Ignorable="d"
-        Title="agents" Height="450" Width="800">
+        Title="Агенты" Height="487.895" Width="928">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="150" />
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <ListBox Name="LbAgents" SelectionChanged="LbAgents_SelectionChanged"  Width="200" Margin="10" Height="360">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding PersonSet.FullName}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <StackPanel Orientation="Horizontal">
+                <Button Name="BtnNew" Content="New" Style="{StaticResource ButtonAgent}"/>
+                <Button Name="BtnDelete" Content="Delete" Style="{StaticResource ButtonAgent}" Click="BtnDelete_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Width="150" Grid.Column="2">
+            <TextBlock Text="First name" Style="{StaticResource TextBlockSPEl}"/>
+            <TextBox x:Name="TbFirstName" Style="{StaticResource TextBoxSPEl}" IsEnabled="False"/>
+            <TextBlock Text="Middle name" Style="{StaticResource TextBlockSPEl}"/>
+            <TextBox x:Name="TbMiddleName"  Style="{StaticResource TextBoxSPEl}" IsEnabled="False"/>
+            <TextBlock Text="Last name" Style="{StaticResource TextBlockSPEl}"/>
+            <TextBox x:Name="TbLastName"  Style="{StaticResource TextBoxSPEl}" IsEnabled="False"/>
+            <TextBlock Text="Deal Share" Style="{StaticResource TextBlockSPEl}"/>
+            <TextBox x:Name="TbDealShare"  Style="{StaticResource TextBoxSPEl}" IsEnabled="False"/>
+            <Button x:Name="BtnEdit" Content="Edit" Style="{StaticResource ButtonSPEl}" Click="BtnEdit_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin=" 10">
+            <TextBlock Text="Demands" Style="{StaticResource TextBlockSPEl}"/>
+            <DataGrid x:Name="DgDemands" IsReadOnly="True" AutoGenerateColumns="False" Height="150" Margin="5, 5, 5, 5" SelectionMode="Single" HeadersVisibility="Column">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Type" Binding="{Binding RealEstateFilterSet.Type}"/>
+                    <DataGridTextColumn Header="Client" Binding="{Binding PersonSet_Client.PersonSet.FullName}"/>
+                    <DataGridTextColumn Header="Agent" Binding="{Binding PersonSet_Agent.PersonSet.FullName}"/>
+                    <DataGridTextColumn Header="Address" Binding="{Binding Address_City}"/>
+                    <DataGridTextColumn Header="Max Price" Binding="{Binding MaxPrice}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <TextBlock Text="Supplies" Style="{StaticResource TextBlockSPEl}"/>
+            <DataGrid x:Name="DgSupplies" IsReadOnly="True" AutoGenerateColumns="False" Height="150" Margin="5, 5, 5, 5" SelectionMode="Single" HeadersVisibility="Column">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="RealEstate" Binding="{Binding RealEstateSet.Info}"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}"/>
+                    <DataGridTextColumn Header="Client" Binding="{Binding PersonSet_Client.PersonSet.FullName}"/>
+                    <DataGridTextColumn Header="Agent" Binding="{Binding PersonSet_Agent.PersonSet.FullName}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
     </Grid>
 </Window>

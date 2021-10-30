@@ -1,0 +1,6 @@
+C:\GitHub\WPF_Practice\ClassLibraryMath\bin\Debug\ClassLibraryMath.dll
+C:\GitHub\WPF_Practice\ClassLibraryMath\bin\Debug\ClassLibraryMath.pdb
+C:\GitHub\WPF_Practice\ClassLibraryMath\obj\Debug\ClassLibraryMath.csproj.AssemblyReference.cache
+C:\GitHub\WPF_Practice\ClassLibraryMath\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
+C:\GitHub\WPF_Practice\ClassLibraryMath\obj\Debug\ClassLibraryMath.dll
+C:\GitHub\WPF_Practice\ClassLibraryMath\obj\Debug\ClassLibraryMath.pdb
